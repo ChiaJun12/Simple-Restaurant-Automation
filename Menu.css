@@ -1,0 +1,62 @@
+#nav {
+    -fx-pref-width: 200px;
+    -fx-text-fill: white;
+    -fx-font-size: 15px;
+    -fx-background-color: transparent;
+    -fx-padding: 10 0 10 0;
+}
+
+#nav:hover {
+    -fx-background-color: #777777;
+}
+
+#topic {
+    -fx-pref-width: 200px;
+    -fx-text-fill: white;
+    -fx-font-size: 30px;
+    -fx-font-family: "Segoe UI";
+    -fx-font-weight: bold;
+    -fx-padding: 20;
+}
+
+#vbox {
+    -fx-background-color: black;
+}
+
+#bg {
+    -fx-background-image: url("food-bg1.jpg");
+    -fx-background-size: cover;
+    -fx-background-repeat: stretch;
+}
+
+#btn {
+    -fx-pref-width: 150;
+    -fx-pref-height: 200;
+    -fx-background-color: transparent;
+    -fx-cursor: hand;
+}
+
+#label {
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+#total {
+    -fx-margin: 50 0 0 0;
+    -fx-pref-width: 200px;
+    -fx-pref-height: 50px;
+    -fx-font-size: 15px;
+    -fx-background-color: white;
+}
+
+#checkout {
+    -fx-pref-width: 200px;
+    -fx-text-fill: white;
+    -fx-font-size: 15px;
+    -fx-background-color: #444444;
+    -fx-padding: 10 0 10 0;
+}
+
+#checkout:hover {
+    -fx-background-color: #777777;
+}

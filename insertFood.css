@@ -1,0 +1,13 @@
+#btn {
+    -fx-font-family: "Arial";
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+    -fx-background-color: black;
+    -fx-background-radius: 30;
+    -fx-padding: 10 20 10 20;
+}
+
+#btn:hover {
+    -fx-background-color: #cccccc;
+    -fx-text-fill: black;
+}
