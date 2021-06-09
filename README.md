@@ -1,2 +1,2 @@
-# Simple-Restaurant-Automation (In-Progress)
+# Simple-Restaurant-Automation 
 Persona Project
